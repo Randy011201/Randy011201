@@ -1,15 +1,15 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3584E4&center=false&vCenter=true&width=435&lines=Hey+there!+I'm+Marco;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mercadomarco240)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-mercado-6381b7180)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mercad0marc022)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mercad0marc0)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/randycamposo240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randycamposo-6381b7180)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/randycamposoc022)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/randycamposoc0)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22759423)
-[![Email](https://img.shields.io/badge/Email-mercadomarco282%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mercadomarco282@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mercadomarco282%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:randycamposo2@gmail.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mercadomarco&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/mercadomarco?label=Followers&style=flat-square" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=randycamposoco&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/randycamposo?label=Followers&style=flat-square" alt="followers"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
