@@ -104,10 +104,10 @@ Backend developer from **Bohol, Philippines** currently pursuing a **BSCS** at *
   I'm always open to collaborating on interesting projects and learning new technologies. Feel free to reach out if you have an idea or just want to connect!
 
   <br/><br/>
-  <a href="https://github.com/mercadomarco">
+  <a href="https://github.com/randycamposo">
     <img src="https://img.shields.io/badge/Follow_me-%23100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="follow"/>
   </a>
-  <a href="mailto:mercadomarco282@gmail.com">
+  <a href="mailto:randycamposo@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </div>
