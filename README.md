@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/randycamposoc022)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/randycamposoc0)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22759423)
-[![Email](https://img.shields.io/badge/Email-mercadomarco282%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:randycamposo2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-randycamposo2004@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:randycamposo2@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=randycamposoco&style=flat-square&color=blue" alt="Profile views"/>
